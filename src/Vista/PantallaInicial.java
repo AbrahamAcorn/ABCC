@@ -16,6 +16,7 @@ public class PantallaInicial extends JFrame{
 	
 	public PantallaInicial() {
 		crearComponentes();
+		//para crear componentes
 	}
 	//Signature;
 	JInternalFrame frameAltas, frameBajas, frameModificaciones, frameConsultas;
